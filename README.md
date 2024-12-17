@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishu279&label=Profile%20views&color=0e75b6&style=flat" alt="kishu279" /> </p>
 
-- 🔭 I’m currently working on *Todo_backed API*
-
 - 🌱 I’m currently learning *MERN Stack*
 
 - 👯 I’m looking to collaborate on *MERN stack projects*
